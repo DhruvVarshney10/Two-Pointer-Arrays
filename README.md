@@ -1,5 +1,6 @@
 
 # Mastering Two-Pointer Arrays for Coding Interviews
+`Author: Dhruv Varshney`
 
 The Two Pointer approach is a pivotal technique frequently explored in coding interviews, renowned for its efficiency in solving array-related problems. It involves leveraging two indices (or pointers) to traverse the array, often from different directions or speeds. This method significantly enhances the efficiency of solutions that might otherwise require nested loops or additional space.
 
