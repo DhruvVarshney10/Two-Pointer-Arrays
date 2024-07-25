@@ -724,7 +724,7 @@ public:
 
 - **Edge Case Handling:** If `s` is an empty string, it is always considered a subsequence of any string `t`.
 
-## 16. Valid Palindrome
+## 14. Valid Palindrome
 
 **Problem Statement:** A phrase is a palindrome if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Given a string `s`, return `true` if it is a palindrome, or `false` otherwise.
 
@@ -783,7 +783,7 @@ public:
 
 - **Completion Check:** If the loop completes without finding unequal characters, return `true`, indicating the string is a palindrome.
 
-## 17. Trapping Rain Water
+## 15. Trapping Rain Water
 
 **Problem Statement:** Given `n` non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
 
